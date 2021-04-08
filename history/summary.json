@@ -4,17 +4,17 @@
     "url": "http://www.csaqjc.com:807/Login/Index?ReturnUrl=%2F",
     "icon": "https://favicons.githubusercontent.com/www.csaqjc.com",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 893,
-    "timeDay": 925,
-    "timeWeek": 753,
-    "timeMonth": 760,
-    "timeYear": 893,
+    "time": 892,
+    "timeDay": 857,
+    "timeWeek": 757,
+    "timeMonth": 761,
+    "timeYear": 892,
     "dailyMinutesDown": {}
   }
 ]
