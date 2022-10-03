@@ -2,7 +2,7 @@
   {
     "name": "监控平台",
     "url": "http://www.csaqjc.com:807/Login/Index?ReturnUrl=%2F",
-    "icon": "https://favicons.githubusercontent.com/www.csaqjc.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.csaqjc.com.ico",
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 987,
+    "timeYear": 989,
     "dailyMinutesDown": {}
   }
 ]
